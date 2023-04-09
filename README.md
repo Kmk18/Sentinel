@@ -8,6 +8,8 @@ _Now available functions:
     - Loaded main character, entities(enemies, bullets, obstacles), maps and backgrounds;
     - Loaded animation with configurable speed, frame per second,...
     - Implemented configurable movements on entities
+    
+    
 _Working on functions:
     - Smoothening animations
     - Adding new moveset to entities including
@@ -18,6 +20,8 @@ _Working on functions:
         .bow mode and sword mode
         .movepath for bots
     - Redrawing map
+    
+  
 _Future Function:
     - AI capable of following player (both hostile and friendly)
     - Shiba - A must-have companion on your adventure, capable of fighting and cuddling you while in idle mode but also need to be protected from enemies
