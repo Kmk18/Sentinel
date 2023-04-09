@@ -6,7 +6,7 @@ Storyline:
 
 _Now available functions:
 
-    - Loaded main character, entities(enemies, bullets, obstacles), maps and backgrounds;
+    - Loaded main character, entities(enemies, bullets, obstacles), maps and backgrounds
     - Loaded animation with configurable speed, frame per second,...
     - Implemented configurable movements on entities
     
